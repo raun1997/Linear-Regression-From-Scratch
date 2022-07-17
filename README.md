@@ -1,3 +1,3 @@
 # Linear-Regression-From-Scratch
-NO LIBRARIES are employed, save `Pandas` and `NumPy`. This Jupyter Notebook is in nascent stage and will be updated soon.
+NO LIBRARIES are employed, save `Pandas` and `NumPy`. This Jupyter Notebook is in nascent stage and will be updated soon.</br>
 Reference: https://youtu.be/VmbA0pi2cRQ (NeuralNine)
